@@ -1,3 +1,1 @@
-# Anime Chat Aventure
-
-Aplicación hecha con React Native + Expo.
+// README.md (coloca aquí tu código real)
